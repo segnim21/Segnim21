@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi there, I'm Segni M!
+# 👋 Hi there, I'm Segni Mideksa!
 
 🚀 I’m an aspiring *Full-Stack Developer* passionate about building *user-friendly, functional, and beautiful web applications*.  
 💻 Currently, I’m **learning Front-End Development** at **ALX Africa** while studying *Civil Engineering at Addis Ababa Science and Technology University (AASTU)*.
