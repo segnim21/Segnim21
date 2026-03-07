@@ -1,9 +1,8 @@
 # 👋 Hi there, I'm Segni Mideksa!
 
+💻 Aspiring Full-Stack Developer currently learning Front-End Development at ALX Africa.
 
-🚀 Aspiring Full-Stack Developer passionate about building user-friendly, functional, and visually appealing web applications.
-
-💻 Currently learning **Front-End Development** at ALX Africa while studying **Civil Engineering** at Addis Ababa Science and Technology University (AASTU).
+🎓 Civil Engineering student at Addis Ababa Science and Technology University (AASTU).
 
 ---
 
