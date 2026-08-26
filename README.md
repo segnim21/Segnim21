@@ -50,9 +50,7 @@ Additional: REST APIs · Responsive Web Design · Component-Based Development
 
 ## 🎓 Education
 
-**ALX — Front-End Development**
-
-Front-End Development Graduate
+**ALX Software Engineering Programme** : Front-End Web Development Graduate
 
 ---
 
