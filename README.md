@@ -4,12 +4,12 @@
 <p align="center">
 I'm a Front-End Developer focused on building responsive and user-friendly web applications.
 I graduated from the ALX Front-End Development program, where I built projects and strengthened my skills in modern frontend development.
-I'm currently open to internships and junior Front-End Developer opportunities where I can contribute, learn, and grow as a developer.
+I'm open to internships and junior Front-End Developer roles — remote, on-site, freelance, or contract — with any company, anywhere.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/segnimideksa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:segnimideksa12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=segnimideksa12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/segnim21"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
@@ -77,6 +77,6 @@ Front-End Development Graduate
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/segnimideksa)
 - 💻 [GitHub](https://github.com/segnim21)
-- 📧 [Email](mailto:segnimideksa12@gmail.com)
+- 📧 [Email Me](https://mail.google.com/mail/?view=cm&fs=1&to=segnimideksa12@gmail.com)
 
-<p align="center"><i>⭐ Thanks for visiting my profile!</i></p>
+<p align="center"><i>⭐ Thanks for visiting my profile! Open to opportunities worldwide.</i></p>
